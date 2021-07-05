@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mygarr
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on RedTeam
 - 📫 How to reach me ...
 
 <!---
